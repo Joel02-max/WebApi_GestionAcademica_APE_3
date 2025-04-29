@@ -84,11 +84,12 @@ Si todo es válido, se hace un POST a la API con los datos
 3.- Ejecutar la API (usualmente en https://localhost:44306)
 
 ## Frontend
-1.- Abrir la carpeta frontend/ con VS Code
-2.- Si deseas levantar un servidor simple para pruebas locales:
+1.- Descmprimir la carpeta del frontend
+2.- Abrir la carpeta frontend/ con VS Code
+3.- Si deseas levantar un servidor simple para pruebas locales:
 npm install
 node server.js
-3.- Accede al frontend en http://localhost:3000/registro.html
+4.- Accede al frontend en http://localhost:3000/registro.html
 
 🛡️ Seguridad y Manejo de Errores
 Todos los errores de conexión con la API se manejan con try-catch
